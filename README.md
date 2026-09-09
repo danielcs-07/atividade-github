@@ -13,4 +13,4 @@ Aprender a utilizar o GitHub.
 
 ## Sobre o projeto
 
-Este repositório foi criado como atividade acadêmica para praticar os principais recursos do github.
+Este repositório foi criado como atividade acadêmica para praticar os principais recursos do GitHub.
