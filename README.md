@@ -1,15 +1,15 @@
-# Atividade github
+# Atividade GitHub
 Olá, sou o Daniel!
 
-sou estudante de Analise e Desenvolvimento de Sistemas.
+Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 ## Objetivo
 
-ApreNder a utilizar o github.
+Aprender a utilizar o GitHub.
 
-## Tecnologia
-- git
-- github
+## Tecnologias
+- Git
+- GitHub
 
 ## Sobre o projeto
 
