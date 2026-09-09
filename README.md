@@ -11,6 +11,6 @@ aprednder a utilizar o github.
 - git
 - github
 
-## sobre o projeto
+## Sobre o projeto
 
 este repertorio foi criado como atividade academica para praticar os principais recursos do github.
